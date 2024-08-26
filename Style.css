@@ -71,6 +71,12 @@ section {
   display: none;
 }
 
+.Download-cv {
+  position: absolute;
+  top: 33.3vw;
+  left:13vw;
+}
+
 .home {
   display: flex;
   align-items: center;
