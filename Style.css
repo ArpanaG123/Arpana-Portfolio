@@ -71,10 +71,23 @@ section {
   display: none;
 }
 
+.social-cv-container {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.social-media a i {
+  font-size: 24px;
+}
+
+
 .Download-cv {
-  position: absolute;
+  /* position: absolute;
   top: 35vw;
-  left:13vw;
+  left:13vw; */
+  padding: 10px 20px;
+  font-weight: bold;
 }
 
 .home {
